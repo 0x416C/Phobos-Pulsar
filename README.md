@@ -1,2 +1,31 @@
-# Phobos-Pulsar
-A custom-built, low-power GPS tracking and alert device designed for reliable, real-time geolocation and remote data transmission.
+# Phobos Pulsar
+
+A custom-built GPS tracking and alert device designed for reliability and low power consumption. This project integrates embedded hardware and firmware to provide real-time location data and emergency alerting capabilities.
+
+## Features
+*   **Real-time Tracking:** Precise GPS geolocation reporting.
+*   **Alert System:** Configurable triggers for location-based alerts.
+*   **Low Power:** Optimized for battery efficiency during remote operation.
+*   **Remote Connectivity:** Seamless data transmission for remote monitoring.
+
+## Tech Stack
+*   **Microcontroller:** Lilygo T-SIM7080G-S3
+*   **Language:** C++ Arduino Framework
+*   **Prototyping:** Shapr3D for enclosure design, Elegoo Neptune 4 Pro for printing
+
+## Hardware Components
+| Component | Function |
+| :--- | :--- |
+| **Main Board** | LilyGo T-SIM7080G (Microcontroller + LTE-M + Integrated GPS) |
+| **Battery** | LiPo 3.7V 500mAh (Autonomous power) |
+| **Button** | Flat LED push button (Main user interface) |
+| **Capacitor** | 1000 µF (Power stabilization) |
+| **Vibration Motor** | Haptic feedback (Optional) |
+| **Wiring** | 22AWG cables (Internal connections) |
+| **Enclosure** | 3D printed PLA+ (Protection and ergonomics) |
+
+## Project Status
+🚧 **In Development** – Currently focusing on hardware integration and firmware stability.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
