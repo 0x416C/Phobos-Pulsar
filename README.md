@@ -1,6 +1,6 @@
 # Phobos Pulsar
 
-A custom-built GPS tracking and alert device designed for reliability and low power consumption. This project integrates embedded hardware and firmware to provide real-time location data and emergency alerting capabilities.
+A custom-built, low-power GPS tracking and alert device designed for reliable, real-time geolocation and remote data transmission.
 
 ## Features
 *   **Real-time Tracking:** Precise GPS geolocation reporting.
