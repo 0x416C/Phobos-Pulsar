@@ -1,6 +1,6 @@
 # Phobos Pulsar
 
-A custom-built, low-power GPS tracking and alert device designed for reliable, real-time geolocation and remote data transmission.
+Standalone emergency beacon. It uses LTE-M to send your GPS location to a designated contact at the push of a button, no smartphone or app required.
 
 ## Features
 *   **Real-time Tracking:** Precise GPS geolocation reporting.
